@@ -1,4 +1,4 @@
-# MCSR Ranked Translations Open Repository
+# MCSR Ranked Translations
 
 Join our [Discord Server](https://mcsrranked.com/discord) and discuss on `#translations-contribute`!
 
