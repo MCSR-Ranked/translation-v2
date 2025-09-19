@@ -150,7 +150,7 @@
   "projectelo.text.match.lose": "失败",
   "projectelo.text.match.draw": "平局",
   "projectelo.text.match.decay": "掉分",
-  "projectelo.text.match.forfeited": "是否弃赛",
+  "projectelo.text.match.forfeited": "弃赛",
   "projectelo.text.match.winner": "胜者",
   "projectelo.text.match.seed": "种子",
   "projectelo.text.match.final_time": "最终时间",
